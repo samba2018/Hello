@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/newone.iml" filepath="$PROJECT_DIR$/.idea/newone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../samba2018.github.io/.idea/samba2018.github.io.iml" filepath="$PROJECT_DIR$/../samba2018.github.io/.idea/samba2018.github.io.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/test2/.idea/test2.iml" filepath="$USER_HOME$/PycharmProjects/test2/.idea/test2.iml" />
     </modules>
   </component>

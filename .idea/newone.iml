@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="samba2018.github.io" />
   </component>
 </module>
